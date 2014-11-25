@@ -1,0 +1,1 @@
+{"name":"Yishaigalatzer.GitHub.io","tagline":"","body":"### Is this the best way to sharing out a blog?\r\n\r\n```c#\r\nforeach (var x in Foo())\r\n{\r\n    Thing.DoStuff();\r\n}\r\n```","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
